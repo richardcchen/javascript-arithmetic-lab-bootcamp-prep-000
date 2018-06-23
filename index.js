@@ -24,10 +24,10 @@ function dec(n){
   return n
 }
 
-var intnum =
+var asdf = 1
 function makeInt(n){
- new = parseInt('n', 10)
- return new;
+ asdf = parseInt('n', 10)
+ return asdf;
 }
 
 function preserveDecimal(n){
