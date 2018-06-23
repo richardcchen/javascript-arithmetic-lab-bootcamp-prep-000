@@ -24,8 +24,9 @@ function dec(n){
   return n
 }
 
-var asdf = 1
+
 function makeInt(n){
+ var asdf = 1
  asdf === parseInt('n', 10)
  return asdf;
 }
