@@ -25,7 +25,7 @@ function dec(n){
 }
 
 var asdf = 1
-function makeInt(n){
+function makeInt('n'){
  asdf = parseInt('n', 10)
  return asdf;
 }
